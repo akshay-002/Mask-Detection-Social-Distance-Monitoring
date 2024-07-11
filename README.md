@@ -1,5 +1,7 @@
 # Mask Detection & Social Distance Monitoring
 
+![Detection](Images/Proximity_Analysis.png)
+
 This repository contains projects for mask detection and social distance monitoring using computer vision techniques. These projects aim to contribute to public health and safety by detecting whether individuals are wearing masks and monitoring adherence to social distancing guidelines.
 
 ## Facial Mask Detection
